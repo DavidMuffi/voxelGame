@@ -65,7 +65,5 @@ Implement chunk management for efficient loading/unloading of blocks.
 Add interaction support (player movement, collisions, etc.).
 
 🔗 Resources
-Vulkan API Doc
 https://docs.vulkan.org/spec/latest/index.html
-GLFW Doc
 https://www.glfw.org/documentation
