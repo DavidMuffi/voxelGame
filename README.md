@@ -8,14 +8,6 @@ To run this project, you will need to install the following tools and libraries:
 Vulkan SDK
 Download and install the Vulkan SDK from LunarG Vulkan SDK. Make sure to follow the installation instructions for your platform.
 
-Compiler
-
-Windows: MSVC (Visual Studio) or MinGW
-
-Linux: GCC
-
-MacOS: Xcode
-
 GLFW
 GLFW is a library that makes creating windows and handling input events easier. To install it:
 
