@@ -23,7 +23,7 @@ GPU Drivers
 Ensure that you have the latest drivers for your GPU that support Vulkan.
 
 🛠 Build the Project
-1. Set Up Environment Variables
+Set Up Environment Variables
 In your terminal or command prompt, make sure the Vulkan SDK is set up correctly:
 
 Linux / MacOS: Add the following lines to your .bashrc or .zshrc file:
@@ -36,7 +36,7 @@ export VK_LAYER_PATH=$VULKAN_SDK/etc/vulkan/explicit_layer.d
 Then, reload the terminal with:
 source ~/.bashrc   # o ~/.zshrc
 
-2. Build the Project
+Build the Project
 cd voxelGame
 mkdir build
 cd build
